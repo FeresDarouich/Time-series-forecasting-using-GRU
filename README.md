@@ -2,6 +2,8 @@
 
 ![image](https://github.com/FeresDarouich/Time-series-forecasting-using-GRU/assets/120333973/1845e557-9eed-406a-a8b2-9899b4db0f50)
 
+# What is Gated Recurrent Unit(GRU) ?
+
 GRU stands for Gated Recurrent Unit, which is a type of recurrent neural network (RNN) architecture that is similar to LSTM (Long Short-Term Memory).
 
 Like LSTM, GRU is designed to model sequential data by allowing information to be selectively remembered or forgotten over time. However, GRU has a simpler architecture than LSTM, with fewer parameters, which can make it easier to train and more computationally efficient.
